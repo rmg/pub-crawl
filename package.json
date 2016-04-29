@@ -1,0 +1,25 @@
+{
+  "name": "pub-crawl",
+  "version": "0.0.0",
+  "description": "Crawls and reports on public repos and modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/test-*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmg/pub-crawl.git"
+  },
+  "keywords": [
+    "npm",
+    "github",
+    "package.json",
+    "meta"
+  ],
+  "author": "Ryan Graham <r.m.graham@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rmg/pub-crawl/issues"
+  },
+  "homepage": "https://github.com/rmg/pub-crawl#readme"
+}
