@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/rmg/pub-crawl#readme",
   "devDependencies": {
-    "tap": "^5.7.1"
+    "tap": "^9.0.1"
   }
 }
